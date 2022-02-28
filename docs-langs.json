@@ -1,0 +1,19 @@
+{
+  "Languages": [
+    {
+      "DisplayName": "English",
+      "Code": "en",
+      "IsDefault": true
+    },
+    {
+      "DisplayName": "Türkçe",
+      "Code": "tr",
+      "IsDefault": false
+    },
+    {
+      "DisplayName": "Deutsche",
+      "Code": "de-DE",
+      "IsDefault": false
+    }
+  ]
+}

@@ -1,0 +1,150 @@
+{
+  "items": [
+    {
+      "text": "ODMS Installation Guide",
+      "items": [
+        {
+          "text": "Introduction",
+          "path": "InstallationGuide/Install1 - Introduction.md"
+        },
+        {
+          "text": "Hardware Requirements",
+          "path": "InstallationGuide/Install2 - Hardware Requirements.md"
+        },
+        {
+          "text": "Licensing",
+          "path": "InstallationGuide/Install3 - Licensing.md"
+        },
+        {
+          "text": "Database Setup",
+          "items": [
+            {
+              "text": "Overview",
+              "path": "InstallationGuide/Install4 - Database.md"
+            },
+            {
+              "text": "Oracle",
+              "path": "InstallationGuide/Install5 - Oracle Setup.md"
+            },
+            {
+              "text": "SQL Server",
+              "path": "InstallationGuide/Install6 - SQL Setup.md"
+            }
+          ]
+        },
+        {
+          "text": "OPC Sync",
+          "path": "InstallationGuide/Install7 - OPCsync.md"
+        }
+      ]
+    },
+    {
+      "text": "ODMS User Manual",
+      "items": [
+        {
+          "text": "Introduction",
+          "path": "UserManual/Chapter1 - Introduction.md"
+        },
+        {
+          "text": "Database Overview",
+          "path": "UserManual/Chapter2 - Database Overview.md"
+        },
+        {
+          "text": "UI Overview",
+          "path": "UserManual/Chapter3 - UI Overview.md"
+        },
+        {
+          "text": "Workflow",
+          "path": "UserManual/Chapter4 - Workflow.md"
+        },
+        {
+          "text": "Importing Data",
+          "path": "UserManual/Chapter5 - Importing Network Data.md"
+        },
+        {
+          "text": "CIMEdit",
+          "path": "UserManual/Chapter6 - CIMEdit.md"
+        },
+        {
+          "text": "Online Interface",
+          "path": "UserManual/Chapter7 - Online Interface.md"
+        },
+        {
+          "text": "Model Merge",
+          "path": "UserManual/Chapter8 - Model Merge.md"
+        },
+        {
+          "text": "Historical Modeling",
+          "path": "UserManual/Chapter9 - Historical Modeling.md"
+        },
+        {
+          "text": "Network Analysis",
+          "path": "UserManual/Chapter10 - Network Analysis.md"
+        },
+        {
+          "text": "Exporting Data",
+          "path": "UserManual/Chapter11 - Exporting.md"
+        },
+        {
+          "text": "Project Modeling",
+          "path": "UserManual/Chapter12 - Project Modeling.md"
+        },
+        {
+          "text": "Model Change Processing",
+          "path": "UserManual/Chapter13 - Model Change Processing.md"
+        },
+        {
+          "text": "Application Administration",
+          "path": "UserManual/Chapter14 - Application Administration.md"
+        },
+        {
+          "text": "Dynamic Data",
+          "path": "UserManual/Chapter15 - Dynamic Data.md"
+        }
+      ]
+    },
+    {
+      "text": "CIM Model Management",
+      "items": [
+        {
+          "text": "Delete Model By ID",
+          "path": "CIMModelManagement/DeleteModelByID.md"
+        },
+        {
+          "text": "Download Model By Name",
+          "path": "CIMModelManagement/DownloadModelByName.md"
+        },
+        {
+          "text": "Export Full Model",
+          "path": "CIMModelManagement/ExportFullModel.md"
+        }
+      ]
+    },
+    {
+      "text": "File Management",
+      "items": [
+        {
+          "text": "Create New Folder",
+          "path": "FileManagement/CreateNewFolder.md"
+        },
+        {
+          "text": "Delete Directory By ID",
+          "path": "FileManagement/DeleteDirectoryByID.md"
+        },
+        {
+          "text": "Get All Subdirectories",
+          "path": "FileManagement/GetAllSubdirectories.md"
+        }
+      ]
+    },
+    {
+      "text": "Identity Management",
+      "items": [
+        {
+          "text": "Authorization",
+          "path": "IdentityManagement/Authorization.md"
+        }
+      ]
+    }
+  ]
+ }
