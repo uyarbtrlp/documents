@@ -20,7 +20,7 @@ Bu belge, Ağ Modeli Yönetimi araçlarının API açıklamasını kapsayacaktı
 
 ### Dosya Yönetimi - Dosya
 ###### GET
-- Bir dizindeki tüm Dosyaları listele
+- Bir dizindeki tüm Dosyaları listelee
 - ID ye göre bir Dosya alın
 - Dosya içeriğini al
 - ID ye göre Dosyayı İndir
